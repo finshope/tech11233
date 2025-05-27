@@ -1,5 +1,5 @@
 # tech11233
-The is the addon for GT inspired by KAMI11233. Some awesome 11233 machines are added.
+The is the addon for GT inspired by KAMI11233. Some awesome 11233 machines will be added in later future.
 
 # 11233之触
 用来召唤**11233之瞥视**。
