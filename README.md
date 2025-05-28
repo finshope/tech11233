@@ -1,5 +1,5 @@
 # tech11233
-The is the addon for GT inspired by KAMI11233. Some awesome 11233 machines will be added in later future.
+The is the addon for GT inspired by KAMI11233. Some awesome 11233 machines will be added in 11,233 years.
 
 # 通用特性
 11233所有机器共同拥有的特性。
